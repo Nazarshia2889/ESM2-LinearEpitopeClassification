@@ -1,2 +1,2 @@
 # EpitopeModel
-ML X BIO Team Raven Hackathon Project
+Bio X ML "Ravens" Hackathon Project - 2023
